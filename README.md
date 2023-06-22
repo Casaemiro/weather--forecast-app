@@ -8,7 +8,7 @@ This is a weather mobile app that can be used to give you live feed about the we
 - TypeScript
 - weatherapi https://weatherapi.com
 
-## Dependencies
+## Environment-Dependencies
 - Android or Emulator
 - Code Editor (VS Code)
 - node or yarn
