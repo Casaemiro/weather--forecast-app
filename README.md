@@ -17,7 +17,7 @@ This is a weather mobile app that can be used to give you live feed about the we
 - Android SDK
 - Android NDK
 
-# install dev dependencies
+# Install dev dependencies
 `npm install` or `yarn install`
 ## Then
 
